@@ -1,0 +1,17 @@
+{
+    "name": "newscycle-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Nathan Willis"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/newscycle-bower.git"
+    },
+    "description": "News Cycle font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
